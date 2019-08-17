@@ -1,0 +1,142 @@
+/**/_xdc_._enket3 && _xdc_._enket3( {
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1327",
+               "short_name" : "1327",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Mint Street",
+               "short_name" : "S Mint St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Charlotte",
+               "short_name" : "Charlotte",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "1, Charlotte",
+               "short_name" : "1, Charlotte",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Mecklenburg County",
+               "short_name" : "Mecklenburg County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28203",
+               "short_name" : "28203",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1327 S Mint St, Charlotte, NC 28203, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.2205059,
+               "lng" : -80.85753939999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2218548802915,
+                  "lng" : -80.85619041970848
+               },
+               "southwest" : {
+                  "lat" : 35.2191569197085,
+                  "lng" : -80.85888838029149
+               }
+            }
+         },
+         "place_id" : "ChIJdZSnjdWhVogRIoqH91S5TFk",
+         "plus_code" : {
+            "compound_code" : "64CR+6X Charlotte, 1, Charlotte, NC, United States",
+            "global_code" : "867X64CR+6X"
+         },
+         "types" : [ "establishment", "food", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wilson Avenue",
+               "short_name" : "Wilson Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fort Myer",
+               "short_name" : "Fort Myer",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Arlington",
+               "short_name" : "Arlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arlington County",
+               "short_name" : "Arlington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22211",
+               "short_name" : "22211",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Wilson Ave, Fort Myer, VA 22211, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.876392,
+               "lng" : -77.0721696
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.87774098029149,
+                  "lng" : -77.07082061970848
+               },
+               "southwest" : {
+                  "lat" : 38.87504301970849,
+                  "lng" : -77.07351858029149
+               }
+            }
+         },
+         "place_id" : "ChIJNVmdkuy2t4kRHPRhiiQjItY",
+         "plus_code" : {
+            "compound_code" : "VWGH+H4 Arlington, Mason, VA, United States",
+            "global_code" : "87C4VWGH+H4"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}
+ )

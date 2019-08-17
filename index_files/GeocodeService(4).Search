@@ -1,0 +1,50 @@
+/**/_xdc_._nq2sux && _xdc_._nq2sux( {
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Holland, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1833322,
+                  "lng" : 5.328279999999999
+               },
+               "southwest" : {
+                  "lat" : 52.1657716,
+                  "lng" : 4.4937415
+               }
+            },
+            "location" : {
+               "lat" : 52.5205869,
+               "lng" : 4.788474
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1833322,
+                  "lng" : 5.328279999999999
+               },
+               "southwest" : {
+                  "lat" : 52.1657716,
+                  "lng" : 4.4937415
+               }
+            }
+         },
+         "place_id" : "ChIJu-SH28MJxkcRJYI2wf63IME",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
+ )
